@@ -1,1 +1,2 @@
 # Titanic-survival-prediction
+In this Titanic Survival Prediction Project, I employed logistic regression, a powerful machine learning algorithm, to predict passenger survival based on a meticulously curated dataset. Through systematic data preprocessing, the model was trained and evaluated, navigating challenges along the way. Explore the code, delve into the results, and feel free to reach out for any inquiries or potential collaborations.
